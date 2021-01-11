@@ -1,15 +1,11 @@
 {
-  "name": "winston",
-  "description": "A multi-transport async logging library for Node.js",
+  "name": "winston-ryan",
+  "description": "Fork of winston(v2.4.0) which fixed minor bug for logging Error object",
   "version": "2.4.0",
-  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
-  "maintainers": [
-    "Jarrett Cruger <jcrugzz@gmail.com>",
-    "Alberto Pose <albertopose@gmail.com>"
-  ],
+  "author": "Ryan Cha <dev.ryan.cha@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/winstonjs/winston.git"
+    "url": "https://github.com/ryan-cha/winston.git"
   },
   "keywords": [
     "winston",
