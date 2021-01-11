@@ -1,5 +1,5 @@
 {
-  "name": "winston-ryan",
+  "name": "@ryan-cha/winston",
   "description": "Fork of winston(v2.4.0) which fixed minor bug for logging Error object",
   "version": "2.4.0",
   "author": "Ryan Cha <dev.ryan.cha@gmail.com>",
